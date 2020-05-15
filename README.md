@@ -1,5 +1,16 @@
 # Questions and Answers API
 
+This repo contains for main folders.
+
+| Folder     | Description                                   |
+| ---------- | --------------------------------------------- |
+| etl        | ETL tools for data transformation and cleanup |
+| NGINX LB   | NGINX Docker container and config             |
+| PostgresDB | Old and modified postgres schema SQL files    |
+| Server     | Containerized node server                     |
+
+The postgres schema:
+
 ![Image description](https://github.com/zluther89/QnAVatnajokullAPI/blob/master/Schema%20Design.png)
 
 ### List Questions
