@@ -55,8 +55,7 @@ Response
 		"description": "Whether you're a morning person or not. Whether you're gym bound or not. Everyone looks good in joggers.",
 		"category": "Pants",
 		"default_price": "40"
-	},
-	// ...
+	}
 ]
 ```
 
