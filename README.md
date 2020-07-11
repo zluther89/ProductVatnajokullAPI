@@ -95,7 +95,6 @@ Response
 			"feature": "Material",
 			"value": "FullControlSkin"
 		},
-  	// ...
 	],
 }
 ```
@@ -169,7 +168,6 @@ Response
 			"XXL": 6
 			}
 	},
-  // ...
 }
 ```
 
