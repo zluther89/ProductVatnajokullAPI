@@ -1,4 +1,4 @@
-# Questions and Answers API
+# Product API
 
 This repo contains for main folders.
 
